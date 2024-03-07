@@ -1,3 +1,3 @@
 # hello-world
-This repository is for practising the GitHub Flow.
-I'm Lizzy.
+I'm Lizzy. This repository is for practising the GitHub Flow.
+
